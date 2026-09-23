@@ -2,9 +2,9 @@
 
 # Waqar Azeem
 
-### Data Analyst — SQL · Python · Excel · Power BI / Tableau
+### Web Developer → Data Analytics | IBM Certified Data Analyst
 
-<sub>Turning raw data into decisions that make sense · Open to Data Analyst roles in Saudi Arabia</sub>
+<sub>7+ years building web & digital solutions, now applying that foundation to data analysis · Open to Data Analyst roles in Saudi Arabia</sub>
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 ## About
 
-I'm a Data Analyst who enjoys taking messy, scattered data and turning it into something a decision-maker can actually act on — a clean dashboard, a sharp query, a one-line insight that changes the conversation.
+I'm a Web Developer with 7+ years of experience (240+ projects delivered — WordPress, front-end development, database-driven sites) who has moved into **Data Analytics**, backed by an **IBM Data Analyst Professional Certificate**.
 
-I care more about the *why* behind a number than the number itself. Every chart I build has to answer a real question, not just look good.
+That background means I already think in terms of structured data, databases, and measurable results — I'm now applying those same instincts to SQL, Python, and dashboarding tools to turn raw data into decisions.
 
-Currently focused on landing a Data Analyst role in **Saudi Arabia**, while sharpening my skills through hands-on projects.
+Currently focused on landing a Data Analyst role in **Saudi Arabia**.
 
 <br/>
 
@@ -31,22 +31,31 @@ Currently focused on landing a Data Analyst role in **Saudi Arabia**, while shar
 <tr>
 <td valign="top" width="50%">
 
-**Analysis & Querying**
+**Data Analysis** *(current focus)*
 - SQL — data extraction, joins, aggregation
 - Python — Pandas, NumPy
 - Excel — pivot tables, formulas, modeling
+- Power BI & Tableau — dashboards & reporting
 
 </td>
 <td valign="top" width="50%">
 
-**Visualization & Reporting**
-- Power BI — interactive dashboards
-- Tableau — data storytelling
-- Jupyter Notebook — analysis & documentation
+**Web Development** *(7+ yrs background)*
+- WordPress & Elementor
+- Front-End Development (HTML5, CSS)
+- Database Development
+- SEO / SEM
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Certifications
+
+- 🎓 **IBM Data Analyst Professional Certificate** — Coursera / IBM, Nov 2025
+- 🎓 **IBM Data Analyst** — IBM, Nov 2025 (Data Analysis, Data Science +13 skills)
 
 <br/>
 
@@ -58,17 +67,7 @@ Currently focused on landing a Data Analyst role in **Saudi Arabia**, while shar
 | **Project Name 2** | One line on the insight or result | [View Repo →](#) |
 | **Project Name 3** | One line on the tool/output it produced | [View Repo →](#) |
 
-<sub>Replace with your own project names, one-line results, and repo links</sub>
-
-<br/>
-
-## Certifications
-
-- 🎓 Certification Name — Issuer, Year
-- 🎓 Certification Name — Issuer, Year
-- 📘 Currently learning: Advanced SQL
-
-<sub>Swap in your actual certifications/courses</sub>
+<sub>Replace with your own data analysis project names, one-line results, and repo links</sub>
 
 <br/>
 
