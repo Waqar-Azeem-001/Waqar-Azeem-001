@@ -1,86 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20There,%20I'm%20Waqar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# Waqar Azeem
 
-<a href="https://www.linkedin.com/in/waqar-azeem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1BFFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Turning+Data+Into+Decisions;SQL+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+Power+BI+%2F+Tableau;Open+to+Data+Analyst+Roles+in+Saudi+Arabia" alt="Typing SVG" />
-</a>
+### Data Analyst — SQL · Python · Excel · Power BI / Tableau
+
+<sub>Turning raw data into decisions that make sense · Open to Data Analyst roles in Saudi Arabia</sub>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-azeem)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Waqar-Azeem-001)
 
 </div>
 
 <br/>
 
-<img align="right" height="220" src="https://raw.githubusercontent.com/gist/vn7n24fzkq/master/img/coding.gif" alt="coding gif"/>
+## About
 
-### 🧭 About Me
+I'm a Data Analyst who enjoys taking messy, scattered data and turning it into something a decision-maker can actually act on — a clean dashboard, a sharp query, a one-line insight that changes the conversation.
 
-- 📊 Aspiring **Data Analyst**, focused on turning raw data into clear, actionable insight
-- 🧰 Comfortable across the full analysis stack — cleaning, querying, visualizing, reporting
-- 🌍 Currently pursuing **Data Analyst opportunities in Saudi Arabia**
-- 📚 Continuously sharpening skills in SQL, Python, and dashboarding tools
-- 💬 Ask me about data cleaning, dashboards, or turning messy spreadsheets into insight
-- ⚡ Fun fact: I love finding the one number in a dataset that changes the whole story
+I care more about the *why* behind a number than the number itself. Every chart I build has to answer a real question, not just look good.
 
-<br clear="right"/>
+Currently focused on landing a Data Analyst role in **Saudi Arabia**, while sharpening my skills through hands-on projects.
 
----
+<br/>
 
-### 🛠️ Tools & Technologies
+## Skills
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Analysis & Querying**
+- SQL — data extraction, joins, aggregation
+- Python — Pandas, NumPy
+- Excel — pivot tables, formulas, modeling
 
-</div>
+</td>
+<td valign="top" width="50%">
 
----
+**Visualization & Reporting**
+- Power BI — interactive dashboards
+- Tableau — data storytelling
+- Jupyter Notebook — analysis & documentation
 
-### 📈 GitHub Stats
+</td>
+</tr>
+</table>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Waqar-Azeem-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Waqar-Azeem-001&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+## Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-Azeem-001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+| Project | What it does | Link |
+|---|---|---|
+| **Project Name 1** | One line on the business question it answers | [View Repo →](#) |
+| **Project Name 2** | One line on the insight or result | [View Repo →](#) |
+| **Project Name 3** | One line on the tool/output it produced | [View Repo →](#) |
 
-</div>
+<sub>Replace with your own project names, one-line results, and repo links</sub>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
+## Certifications
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Waqar-Azeem-001&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
+- 🎓 Certification Name — Issuer, Year
+- 🎓 Certification Name — Issuer, Year
+- 📘 Currently learning: Advanced SQL
 
----
+<sub>Swap in your actual certifications/courses</sub>
 
-### 🤝 Connect With Me
+<br/>
 
-<div align="center">
+## Let's Connect
 
-<a href="https://www.linkedin.com/in/waqar-azeem">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+I'm always open to connecting with recruiters, analysts, and fellow data people. Reach out on [LinkedIn](https://www.linkedin.com/in/waqar-azeem).
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <sub>⭐️ Thanks for visiting my profile — always open to connecting on data & analytics!</sub>
+<sub>Thanks for visiting my profile.</sub>
 </div>
