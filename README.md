@@ -134,8 +134,8 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 <table>
 <tr>
-<th width="16%">🗓️ Period</th>
-<th width="27%">💼 Role &amp; company</th>
+<th>🗓️ Period</th>
+<th>💼 Role &amp; company</th>
 <th>✨ Highlights</th>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 <tr>
 <td align="center" valign="top"><b>Jan 2022</b><br/><sub>to</sub><br/><b>Dec 2022</b></td>
 <td valign="top"><b>Senior WordPress Developer</b><br/>KryptoMind (Pvt) Ltd<br/><sub>📍 Lahore, Pakistan</sub></td>
-<td valign="top"><ul><li>WordPress sites for blockchain, e-commerce and marketing clients</li><li>Themes, plugins and third-party integrations</li></ul></td>
+<td valign="top"><ul><li>WordPress sites for blockchain, e-commerce and marketing clients</li><li>Custom themes, plugins and third-party integrations for client websites</li></ul></td>
 </tr>
 <tr>
 <td align="center" valign="top"><b>May 2021</b><br/><sub>to</sub><br/><b>Dec 2021</b></td>
