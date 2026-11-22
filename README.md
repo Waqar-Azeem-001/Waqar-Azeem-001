@@ -21,10 +21,10 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>📊 50+</h2><b>Dashboards &amp; tools</b><br/><sub>built for finance clients</sub></td>
-<td align="center" width="25%"><h2>⏱️ 60%</h2><b>Less manual work</b><br/><sub>with automated accounting tools</sub></td>
-<td align="center" width="25%"><h2>🌐 240+</h2><b>Web projects</b><br/><sub>delivered end to end</sub></td>
-<td align="center" width="25%"><h2>🗓️ 7+ yrs</h2><b>Client experience</b><br/><sub>KSA · UAE · UK · Pakistan</sub></td>
+<td align="center" valign="top" width="25%"><h2>📊 50+</h2><b>Dashboards &amp; tools</b><br/><sub>Dashboards, reports and data tools built for finance and accounting clients</sub></td>
+<td align="center" valign="top" width="25%"><h2>⏱️ 60%</h2><b>Less manual work</b><br/><sub>Manual calculation time cut with automated accounting and reporting tools</sub></td>
+<td align="center" valign="top" width="25%"><h2>🌐 240+</h2><b>Web projects</b><br/><sub>Websites, stores and web tools delivered end to end for clients worldwide</sub></td>
+<td align="center" valign="top" width="25%"><h2>🗓️ 7+ yrs</h2><b>Client experience</b><br/><sub>Working with clients and teams across Saudi Arabia, UAE, UK and Pakistan</sub></td>
 </tr>
 </table>
 
@@ -114,15 +114,15 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 <table>
 <tr>
-<td align="center" width="18%"><h3>1️⃣</h3><b>Understand</b><br/><sub>Agree the business question, the KPIs and who will read the report</sub></td>
+<td align="center" valign="top" width="18%"><h3>1️⃣</h3><b>Understand</b><br/><sub>Agree the business question, the KPIs and who will read the report</sub></td>
 <td align="center">➜</td>
-<td align="center" width="18%"><h3>2️⃣</h3><b>Collect &amp; clean</b><br/><sub>Pull data with SQL or Excel, fix gaps and duplicates, reconcile totals</sub></td>
+<td align="center" valign="top" width="18%"><h3>2️⃣</h3><b>Prepare</b><br/><sub>Pull data with SQL or Excel, fix gaps and duplicates, reconcile totals</sub></td>
 <td align="center">➜</td>
-<td align="center" width="18%"><h3>3️⃣</h3><b>Model</b><br/><sub>Build the data model and measures in Power BI (DAX) or Python</sub></td>
+<td align="center" valign="top" width="18%"><h3>3️⃣</h3><b>Model</b><br/><sub>Build the data model and measures in Power BI (DAX) or Python</sub></td>
 <td align="center">➜</td>
-<td align="center" width="18%"><h3>4️⃣</h3><b>Visualise</b><br/><sub>Clear dashboards with the 3–5 numbers that matter on the first screen</sub></td>
+<td align="center" valign="top" width="18%"><h3>4️⃣</h3><b>Visualise</b><br/><sub>Clear dashboards with the 3–5 numbers that matter on the first screen</sub></td>
 <td align="center">➜</td>
-<td align="center" width="18%"><h3>5️⃣</h3><b>Automate</b><br/><sub>Scheduled refresh so the report runs every month without manual work</sub></td>
+<td align="center" valign="top" width="18%"><h3>5️⃣</h3><b>Automate</b><br/><sub>Scheduled refresh so the report runs every month without manual work</sub></td>
 </tr>
 </table>
 
