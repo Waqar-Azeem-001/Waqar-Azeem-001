@@ -19,9 +19,7 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 <div align="center">
 
-| 📊 50+ | ⏱️ 60% | 🌐 240+ | 🗓️ 7+ |
-|:---:|:---:|:---:|:---:|
-| dashboards & reporting tools built | less manual calculation time with automated tools | web projects delivered | years building for clients in KSA, UAE, UK & Pakistan |
+<img src="assets/stats.svg" alt="50+ dashboards and tools · 60% less manual work · 240+ web projects · 7+ years client experience" width="100%"/>
 
 </div>
 
