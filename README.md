@@ -62,11 +62,44 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 ## 📌 Featured projects
 
-| Project | What it shows | Result | Links |
-|---|---|---|---|
-| **Saudi Arabia Fiscal Dashboard 2024–2026** | Saudi state budget at a glance: 2024 actuals, 2025 estimates and 2026 budget side by side — revenue vs expenditure, deficit, oil / non-oil mix, sector spending, debt | One interactive dashboard instead of several static tables; year-on-year changes visible in seconds | [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
-| **Real Estate Investment Dashboard** | 3-page financial model: IRR, NPV, ROI and payback KPIs, cash-flow views, scenario sliders, auto-written insights | Best / base / worst cases tested live in a meeting instead of rebuilding spreadsheets | [Live demo](https://globalsystems.pk/demo/index.html) · [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
-| **Saudi Development Zones Map** | Interactive map of the 105 zones where non-Saudis can own property (Royal Decree M/14), with search, filters and REGA source links | All 105 zones searchable and comparable on one page, a few clicks from the official source | [Live demo](https://globalsystems.pk/saudia/) · [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
+<table>
+<tr><td width="46%" valign="middle"><a href="https://waqar-azeem-001.github.io/portfolio/#projects"><img src="assets/fiscal.jpg" alt="Saudi Arabia Fiscal Dashboard 2024–2026" width="100%"/></a></td><td width="54%" valign="top">
+
+<h3>Saudi Arabia Fiscal Dashboard 2024–2026</h3>
+<sub><b>PUBLIC FINANCE · DATA VISUALIZATION</b></sub>
+
+<p>The Saudi state budget at a glance, built from Ministry of Finance tables — 2024 actuals, 2025 estimates and the 2026 budget side by side.</p>
+<ul><li>Revenue vs expenditure, deficit, oil / non-oil mix</li><li>Sector spending, public debt and reserves</li></ul>
+<p>✅ <b>Result:</b> One interactive dashboard instead of several static tables — year-on-year changes visible in seconds.</p>
+<p><img src="https://img.shields.io/badge/Data_cleaning-1E7F74?style=flat-square" alt="Data cleaning"/> <img src="https://img.shields.io/badge/JavaScript_charts-F7DF1E?style=flat-square" alt="JavaScript charts"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square" alt="HTML/CSS"/></p>
+<p><a href="https://waqar-azeem-001.github.io/portfolio/#projects"><img src="https://img.shields.io/badge/Case_study-14263A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study"/></a></p>
+
+</td></tr>
+<tr><td width="54%" valign="top">
+
+<h3>Real Estate Investment Dashboard</h3>
+<sub><b>FINANCIAL MODELLING · KPIS · SCENARIOS</b></sub>
+
+<p>A three-page investment model that shows whether a project is worth it — and how sensitive the return is.</p>
+<ul><li>IRR, NPV, ROI and payback-period KPIs with cash-flow views</li><li>Scenario sliders for revenue, cost and discount rate, with auto-written insights</li></ul>
+<p>✅ <b>Result:</b> Best / base / worst cases tested live in a meeting instead of rebuilding spreadsheets.</p>
+<p><img src="https://img.shields.io/badge/Financial_modelling-1E7F74?style=flat-square" alt="Financial modelling"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square" alt="HTML/CSS"/></p>
+<p><a href="https://globalsystems.pk/demo/index.html"><img src="https://img.shields.io/badge/Live_demo-1E7F74?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a> <a href="https://waqar-azeem-001.github.io/portfolio/#projects"><img src="https://img.shields.io/badge/Case_study-14263A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study"/></a></p>
+
+</td><td width="46%" valign="middle"><a href="https://globalsystems.pk/demo/index.html"><img src="assets/realestate.jpg" alt="Real Estate Investment Dashboard" width="100%"/></a></td></tr>
+<tr><td width="46%" valign="middle"><a href="https://globalsystems.pk/saudia/"><img src="assets/zones.jpg" alt="Saudi Development Zones Map" width="100%"/></a></td><td width="54%" valign="top">
+
+<h3>Saudi Development Zones Map</h3>
+<sub><b>GEOSPATIAL · SEARCH & FILTERS · REAL ESTATE</b></sub>
+
+<p>Interactive map of the 105 zones where non-Saudis can own property under Royal Decree M/14, built for Insights KSA.</p>
+<ul><li>Search and filters, with a map and list that stay in sync</li><li>Zone details linked back to official REGA sources</li></ul>
+<p>✅ <b>Result:</b> All 105 zones searchable and comparable on one page, a few clicks from the official source.</p>
+<p><img src="https://img.shields.io/badge/Geospatial_data-1E7F74?style=flat-square" alt="Geospatial data"/> <img src="https://img.shields.io/badge/Interactive_map-0F2A36?style=flat-square" alt="Interactive map"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/></p>
+<p><a href="https://globalsystems.pk/saudia/"><img src="https://img.shields.io/badge/Live_demo-1E7F74?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a> <a href="https://waqar-azeem-001.github.io/portfolio/#projects"><img src="https://img.shields.io/badge/Case_study-14263A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study"/></a></p>
+
+</td></tr>
+</table>
 
 ➡️ Full case studies (challenge → data → approach → result) are on my **[portfolio](https://waqar-azeem-001.github.io/portfolio/)**.
 
