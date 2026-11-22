@@ -19,7 +19,14 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="50+ dashboards and tools · 60% less manual work · 240+ web projects · 7+ years client experience" width="100%"/>
+<table>
+<tr>
+<td align="center" width="25%"><h2>📊 50+</h2><b>Dashboards &amp; tools</b><br/><sub>built for finance clients</sub></td>
+<td align="center" width="25%"><h2>⏱️ 60%</h2><b>Less manual work</b><br/><sub>with automated accounting tools</sub></td>
+<td align="center" width="25%"><h2>🌐 240+</h2><b>Web projects</b><br/><sub>delivered end to end</sub></td>
+<td align="center" width="25%"><h2>🗓️ 7+ yrs</h2><b>Client experience</b><br/><sub>KSA · UAE · UK · Pakistan</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -105,7 +112,19 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 ## 🧭 How I work
 
-<img src="assets/process.svg" alt="How I work: 1 Understand, 2 Collect and clean, 3 Model, 4 Visualise, 5 Automate" width="100%"/>
+<table>
+<tr>
+<td align="center" width="18%"><h3>1️⃣</h3><b>Understand</b><br/><sub>Agree the business question, the KPIs and who will read the report</sub></td>
+<td align="center">➜</td>
+<td align="center" width="18%"><h3>2️⃣</h3><b>Collect &amp; clean</b><br/><sub>Pull data with SQL or Excel, fix gaps and duplicates, reconcile totals</sub></td>
+<td align="center">➜</td>
+<td align="center" width="18%"><h3>3️⃣</h3><b>Model</b><br/><sub>Build the data model and measures in Power BI (DAX) or Python</sub></td>
+<td align="center">➜</td>
+<td align="center" width="18%"><h3>4️⃣</h3><b>Visualise</b><br/><sub>Clear dashboards with the 3–5 numbers that matter on the first screen</sub></td>
+<td align="center">➜</td>
+<td align="center" width="18%"><h3>5️⃣</h3><b>Automate</b><br/><sub>Scheduled refresh so the report runs every month without manual work</sub></td>
+</tr>
+</table>
 
 > I start with the decision someone needs to make — and only then pick the chart, the tool or the formula.
 
@@ -113,7 +132,24 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 ## 💼 Experience
 
-<img src="assets/experience.svg" alt="Experience: Data Analyst at Insights KSA (2023–present); Senior WordPress Developer at KryptoMind (2022); Web Developer at Rankiz E-Venue (2021); Web Developer at E-Tech Marketing (2018–2021)" width="100%"/>
+<table>
+<tr>
+<td width="28%" valign="top"><b>Data Analyst</b> &nbsp;🟢 <sub><b>CURRENT</b></sub><br/>🏢 Insights KSA<br/>📍 Riyadh (Hybrid)<br/><sub>🗓️ Jan 2023 – Present</sub></td>
+<td valign="top"><ul><li>Dashboards and financial reporting for finance and accounting clients</li><li>SQL, Excel and Python for data preparation</li><li>Automated accounting tools that cut manual calculation time by <b>60%</b></li></ul></td>
+</tr>
+<tr>
+<td width="28%" valign="top"><b>Senior WordPress Developer</b><br/>🏢 KryptoMind (Pvt) Ltd<br/>📍 Lahore<br/><sub>🗓️ Jan 2022 – Dec 2022</sub></td>
+<td valign="top"><ul><li>WordPress sites for blockchain, e-commerce and marketing clients</li><li>Themes, plugins and third-party integrations</li></ul></td>
+</tr>
+<tr>
+<td width="28%" valign="top"><b>Web Developer</b><br/>🏢 Rankiz E-Venue<br/>📍 UAE<br/><sub>🗓️ May 2021 – Dec 2021</sub></td>
+<td valign="top"><ul><li>Responsive e-commerce and marketing websites</li><li>Better navigation, usability and site performance</li></ul></td>
+</tr>
+<tr>
+<td width="28%" valign="top"><b>Web Developer</b><br/>🏢 E-Tech Marketing<br/>📍 Islamabad<br/><sub>🗓️ Aug 2018 – May 2021</sub></td>
+<td valign="top"><ul><li>Client websites with PHP, JavaScript and WordPress</li><li>Server management and production maintenance</li></ul></td>
+</tr>
+</table>
 
 
 ---
