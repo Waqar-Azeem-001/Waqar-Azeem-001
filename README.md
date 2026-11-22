@@ -139,22 +139,22 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 <th>✨ Highlights</th>
 </tr>
 <tr>
-<td align="center" valign="top"><b>Jan 2023</b><br/><sub>to</sub><br/><b>Present</b><br/><sub>🟢 CURRENT</sub></td>
+<td align="center" valign="top"><b>Jan 2023&nbsp;–&nbsp;Present</b><br/><sub>🟢 CURRENT</sub></td>
 <td valign="top"><b>Data Analyst</b><br/>Insights KSA<br/><sub>📍 Riyadh (Hybrid)</sub></td>
 <td valign="top"><ul><li>Dashboards and financial reporting for finance and accounting clients</li><li>SQL, Excel and Python for data preparation</li><li>Automated accounting tools that cut manual calculation time by <b>60%</b></li></ul></td>
 </tr>
 <tr>
-<td align="center" valign="top"><b>Jan 2022</b><br/><sub>to</sub><br/><b>Dec 2022</b></td>
+<td align="center" valign="top"><b>Jan 2022&nbsp;–&nbsp;Dec 2022</b></td>
 <td valign="top"><b>Senior WordPress Developer</b><br/>KryptoMind (Pvt) Ltd<br/><sub>📍 Lahore, Pakistan</sub></td>
 <td valign="top"><ul><li>WordPress sites for blockchain, e-commerce and marketing clients</li><li>Custom themes, plugins and third-party integrations for client websites</li></ul></td>
 </tr>
 <tr>
-<td align="center" valign="top"><b>May 2021</b><br/><sub>to</sub><br/><b>Dec 2021</b></td>
+<td align="center" valign="top"><b>May 2021&nbsp;–&nbsp;Dec 2021</b></td>
 <td valign="top"><b>Web Developer</b><br/>Rankiz E-Venue<br/><sub>📍 United Arab Emirates</sub></td>
 <td valign="top"><ul><li>Responsive e-commerce and marketing websites</li><li>Better navigation, usability and site performance</li></ul></td>
 </tr>
 <tr>
-<td align="center" valign="top"><b>Aug 2018</b><br/><sub>to</sub><br/><b>May 2021</b></td>
+<td align="center" valign="top"><b>Aug 2018&nbsp;–&nbsp;May 2021</b></td>
 <td valign="top"><b>Web Developer</b><br/>E-Tech Marketing<br/><sub>📍 Islamabad, Pakistan</sub></td>
 <td valign="top"><ul><li>Client websites with PHP, JavaScript and WordPress</li><li>Server management and production maintenance</li></ul></td>
 </tr>
