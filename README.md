@@ -39,7 +39,6 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Web**
 
@@ -56,11 +55,11 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 ## 📌 Featured projects
 
-| Project | What it shows | Tools |
-|---|---|---|
-| **[Saudi Arabia Fiscal Dashboard 2024–2026](https://waqar-azeem-001.github.io/portfolio/#projects)** | The Saudi state budget at a glance — 2024 actuals, 2025 estimates and the 2026 budget side by side: revenue vs expenditure, deficit, oil / non-oil mix, sector spending and public debt | JavaScript · data visualization |
-| **[Real Estate Investment Dashboard](https://waqar-azeem-001.github.io/portfolio/#projects)** | A 3-page financial model with IRR, NPV, ROI and payback KPIs, scenario sliders for revenue, cost and discount rate, and insights that update with each scenario | Financial modelling · KPIs |
-| **[Saudi Development Zones Map](https://waqar-azeem-001.github.io/portfolio/#projects)** | Interactive map of the 105 zones where non-Saudis can own property (Royal Decree M/14), with search, filters and a map + list that stay in sync | Geospatial · JavaScript |
+| Project | What it shows | Result | Links |
+|---|---|---|---|
+| **Saudi Arabia Fiscal Dashboard 2024–2026** | Saudi state budget at a glance: 2024 actuals, 2025 estimates and 2026 budget side by side — revenue vs expenditure, deficit, oil / non-oil mix, sector spending, debt | One interactive dashboard instead of several static tables; year-on-year changes visible in seconds | [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
+| **Real Estate Investment Dashboard** | 3-page financial model: IRR, NPV, ROI and payback KPIs, cash-flow views, scenario sliders, auto-written insights | Best / base / worst cases tested live in a meeting instead of rebuilding spreadsheets | [Live demo](https://globalsystems.pk/demo/index.html) · [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
+| **Saudi Development Zones Map** | Interactive map of the 105 zones where non-Saudis can own property (Royal Decree M/14), with search, filters and REGA source links | All 105 zones searchable and comparable on one page, a few clicks from the official source | [Live demo](https://globalsystems.pk/saudia/) · [Case study](https://waqar-azeem-001.github.io/portfolio/#projects) |
 
 ➡️ Full case studies (challenge → data → approach → result) are on my **[portfolio](https://waqar-azeem-001.github.io/portfolio/)**.
 
