@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="488" viewBox="0 0 1200 488">
+<style>.p{font:600 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#1E7F74;letter-spacing:1px}.r{font:700 21px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#0F2A36}.c{font:600 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#14403F}.d{font:400 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#5B6F77}.b{font:700 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:1px}</style>
+<line x1="60" y1="40" x2="60" y2="458" stroke="#D3E6E2" stroke-width="4"/>
+<rect x="100" y="20" width="1098" height="98" rx="14" fill="#F3F8F7" stroke="#9CC7BE" stroke-width="2"/>
+<circle cx="60" cy="69.0" r="13" fill="#1E7F74" stroke="#fff" stroke-width="4"/>
+<text x="128" y="50" class="p">JAN 2023 – PRESENT</text>
+<text x="128" y="78" class="r">Data Analyst</text>
+<text x="128" y="102" class="c">Insights KSA · Riyadh (Hybrid)</text>
+<text x="620" y="66" class="d">Dashboards and financial reporting for finance &amp; accounting clients;</text><text x="620" y="88" class="d">SQL, Excel and Python for data prep; automation cut manual work by 60%.</text>
+<rect x="325.6" y="35" width="78" height="22" rx="11" fill="#1E7F74"/><text x="364.6" y="50" text-anchor="middle" class="b">CURRENT</text>
+<rect x="100" y="132" width="1098" height="98" rx="14" fill="#F3F8F7" stroke="#D3E6E2" stroke-width="2"/>
+<circle cx="60" cy="181.0" r="13" fill="#2BB39F" stroke="#fff" stroke-width="4"/>
+<text x="128" y="162" class="p">JAN 2022 – DEC 2022</text>
+<text x="128" y="190" class="r">Senior WordPress Developer</text>
+<text x="128" y="214" class="c">KryptoMind (Pvt) Ltd · Lahore</text>
+<text x="620" y="178" class="d">WordPress sites for blockchain, e-commerce and marketing clients;</text><text x="620" y="200" class="d">themes, plugins and third-party integrations.</text>
+<rect x="100" y="244" width="1098" height="98" rx="14" fill="#F3F8F7" stroke="#D3E6E2" stroke-width="2"/>
+<circle cx="60" cy="293.0" r="13" fill="#E0B400" stroke="#fff" stroke-width="4"/>
+<text x="128" y="274" class="p">MAY 2021 – DEC 2021</text>
+<text x="128" y="302" class="r">Web Developer</text>
+<text x="128" y="326" class="c">Rankiz E-Venue · UAE</text>
+<text x="620" y="290" class="d">Responsive e-commerce and marketing websites;</text><text x="620" y="312" class="d">better navigation, usability and site performance.</text>
+<rect x="100" y="356" width="1098" height="98" rx="14" fill="#F3F8F7" stroke="#D3E6E2" stroke-width="2"/>
+<circle cx="60" cy="405.0" r="13" fill="#0F2A36" stroke="#fff" stroke-width="4"/>
+<text x="128" y="386" class="p">AUG 2018 – MAY 2021</text>
+<text x="128" y="414" class="r">Web Developer</text>
+<text x="128" y="438" class="c">E-Tech Marketing · Islamabad</text>
+<text x="620" y="402" class="d">Client websites with PHP, JavaScript and WordPress;</text><text x="620" y="424" class="d">server management and production maintenance.</text>
+</svg>

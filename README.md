@@ -105,22 +105,16 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 
 ## 🧭 How I work
 
-```
-Understand the question  →  Collect & clean the data  →  Model  →  Visualise  →  Automate
-```
+<img src="assets/process.svg" alt="How I work: 1 Understand, 2 Collect and clean, 3 Model, 4 Visualise, 5 Automate" width="100%"/>
 
-I start with the decision someone needs to make, and only then pick the chart, the tool or the formula.
+> I start with the decision someone needs to make — and only then pick the chart, the tool or the formula.
 
 ---
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|---|---|---|
-| 2023 – Present | Data Analyst | Insights KSA · Riyadh |
-| 2022 | Senior WordPress Developer | KryptoMind · Lahore |
-| 2021 | Web Developer | Rankiz E-Venue · UAE |
-| 2018 – 2021 | Web Developer | E-Tech Marketing · Islamabad |
+<img src="assets/experience.svg" alt="Experience: Data Analyst at Insights KSA (2023–present); Senior WordPress Developer at KryptoMind (2022); Web Developer at Rankiz E-Venue (2021); Web Developer at E-Tech Marketing (2018–2021)" width="100%"/>
+
 
 ---
 

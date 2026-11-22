@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<style>.t{font:700 19px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#0F2A36}.d{font:400 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#5B6F77}.k{font:700 20px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}</style>
+<rect x="1" y="1" width="1198" height="248" rx="16" fill="#F3F8F7" stroke="#D3E6E2" stroke-width="2"/>
+<line x1="120.0" y1="70" x2="1080.0" y2="70" stroke="#C7DDD8" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round"/>
+<path d="M234.0 64 l10 6 l-10 6 z" fill="#9CC7BE"/>
+<circle cx="120.0" cy="70" r="30" fill="#0F2A36"/><text x="120.0" y="77" text-anchor="middle" class="k">1</text>
+<text x="120.0" y="135" text-anchor="middle" class="t">Understand</text>
+<text x="120.0" y="165" text-anchor="middle" class="d">Agree the business</text>
+<text x="120.0" y="186" text-anchor="middle" class="d">question, KPIs and</text>
+<text x="120.0" y="207" text-anchor="middle" class="d">who reads the report</text>
+<path d="M474.0 64 l10 6 l-10 6 z" fill="#9CC7BE"/>
+<circle cx="360.0" cy="70" r="30" fill="#14403F"/><text x="360.0" y="77" text-anchor="middle" class="k">2</text>
+<text x="360.0" y="135" text-anchor="middle" class="t">Collect &amp; clean</text>
+<text x="360.0" y="165" text-anchor="middle" class="d">Pull data with SQL or</text>
+<text x="360.0" y="186" text-anchor="middle" class="d">Excel, fix gaps and</text>
+<text x="360.0" y="207" text-anchor="middle" class="d">reconcile totals</text>
+<path d="M714.0 64 l10 6 l-10 6 z" fill="#9CC7BE"/>
+<circle cx="600.0" cy="70" r="30" fill="#1E7F74"/><text x="600.0" y="77" text-anchor="middle" class="k">3</text>
+<text x="600.0" y="135" text-anchor="middle" class="t">Model</text>
+<text x="600.0" y="165" text-anchor="middle" class="d">Build the data model</text>
+<text x="600.0" y="186" text-anchor="middle" class="d">and measures in</text>
+<text x="600.0" y="207" text-anchor="middle" class="d">Power BI (DAX) or Python</text>
+<path d="M954.0 64 l10 6 l-10 6 z" fill="#9CC7BE"/>
+<circle cx="840.0" cy="70" r="30" fill="#2BB39F"/><text x="840.0" y="77" text-anchor="middle" class="k">4</text>
+<text x="840.0" y="135" text-anchor="middle" class="t">Visualise</text>
+<text x="840.0" y="165" text-anchor="middle" class="d">Dashboards with the</text>
+<text x="840.0" y="186" text-anchor="middle" class="d">3–5 numbers that</text>
+<text x="840.0" y="207" text-anchor="middle" class="d">matter on screen one</text>
+<circle cx="1080.0" cy="70" r="30" fill="#E0B400"/><text x="1080.0" y="77" text-anchor="middle" class="k">5</text>
+<text x="1080.0" y="135" text-anchor="middle" class="t">Automate</text>
+<text x="1080.0" y="165" text-anchor="middle" class="d">Scheduled refresh so</text>
+<text x="1080.0" y="186" text-anchor="middle" class="d">the report runs each</text>
+<text x="1080.0" y="207" text-anchor="middle" class="d">month, no manual work</text>
+</svg>
