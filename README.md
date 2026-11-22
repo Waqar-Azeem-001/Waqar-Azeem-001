@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi, I'm Waqar Azeem 👋
+<img src="assets/banner.svg" alt="Waqar Azeem — Data Analyst & Web Developer, Riyadh" width="100%"/>
 
-### Data Analyst & Web Developer · Riyadh, Saudi Arabia
+<br/><br/>
 
-I turn messy spreadsheets and business data into **dashboards, reports and tools people actually use**.<br/>
-3 years of data & reporting work at Insights KSA · 7+ years of web development · IBM Certified Data Analyst
+I turn messy spreadsheets and business data into **dashboards, reports and tools people actually use**.
 
 <br/>
 
@@ -17,6 +16,14 @@ I turn messy spreadsheets and business data into **dashboards, reports and tools
 </div>
 
 ---
+
+<div align="center">
+
+| 📊 50+ | ⏱️ 60% | 🌐 240+ | 🗓️ 7+ |
+|:---:|:---:|:---:|:---:|
+| dashboards & reporting tools built | less manual calculation time with automated tools | web projects delivered | years building for clients in KSA, UAE, UK & Pakistan |
+
+</div>
 
 ## 🔍 About me
 
